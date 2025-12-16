@@ -1,92 +1,92 @@
 body {
-    background-color: #000080;
-    color: white;
-    font-family: Arial, sans-serif;
-    padding: 20px;
+  background-color: #000080;
+  color: white;
+  font-family: Arial, sans-serif;
+  padding: 20px;
 }
 
 a {
-    color: #33CCFF;
-    text-decoration: underline;
+  color: #33ccff;
+  text-decoration: underline;
 }
 
 .main-title {
-    color: #33CCFF;
-    font-size: 40px;
-    font-weight: bold;
-    text-align: center;
-    border-bottom: 2px solid white;
-    padding-bottom: 10px;
-    margin-bottom: 20px;
+  color: #33ccff;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 2px solid white;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .emphasis {
-    color: red;
+  color: red;
 }
 
 .poetry-title {
-    color: #008000;
-    font-size: 30px;
-    margin-top: 20px;
-    margin-bottom: 15px;
+  color: #008000;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
 
 .anonymous {
-    color: yellow;
+  color: yellow;
 }
 
 .shmoe-box {
-    background-color: white;
-    color: black;
-    border: 1px solid white;
-    padding: 2px 4px;
-    margin-left: 5px;
-    display: inline-block; 
+  background-color: white;
+  color: black;
+  border: 1px solid white;
+  padding: 2px 4px;
+  margin-left: 5px;
+  display: inline-block;
 }
 
 .graphic-placeholder {
-    display: inline-block;
-    width: 60px;
-    height: 30px;
-    background-color: silver;
-    border: 3px solid white;
-    margin-left: 10px;
-    box-shadow: 2px 2px 0px black; 
-    transform: translateY(10px);
+  display: inline-block;
+  width: 60px;
+  height: 30px;
+  background-color: silver;
+  border: 3px solid white;
+  margin-left: 10px;
+  box-shadow: 2px 2px 0px black;
+  transform: translateY(10px);
 }
 
 .red-line {
-    border-color: red;
-    border-style: solid;
-    border-width: 1px;
+  border-color: red;
+  border-style: solid;
+  border-width: 1px;
 }
 
 .advertisement-box {
-    background-color: red;
-    padding: 1px;
-    margin: 20px 0;
-    border: 1px solid red;
+  background-color: red;
+  padding: 1px;
+  margin: 20px 0;
+  border: 1px solid red;
 }
 
 .ad-content {
-    background-color: white;
-    color: black;
-    padding: 10px;
-    border: 4px solid blue;
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border: 4px solid blue;
 }
 
 .ad-title {
-    color: blue;
-    font-size: 24px;
-    font-weight: bold;
-    margin-right: 10px;
+  color: blue;
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 10px;
 }
 
 .footer-text {
-    text-align: center;
-    font-size: 10px;
+  text-align: center;
+  font-size: 10px;
 }
 
 .ad-content a {
-    color: blue;
+  color: blue;
 }
